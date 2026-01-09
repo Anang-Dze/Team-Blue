@@ -47,7 +47,7 @@ To leverage 3+ years of experience in IT Support, SOC operations and Service/Hel
 
 - [CISCO Computer Hardware Basics](https://github.com/Anang-Dze/Computer-Hardware-Basics/blob/main/Computer%20Hardware%20Basics.jpg)
   
-- [CISCO Operating Systems Basics](8)
+- [CISCO Operating Systems Basics](https://github.com/Anang-Dze/Operating-Systems-Basics/blob/main/Operating%20Sysem%20Basic.jpg)
 
 <h2>👨‍🎓Education</h2>
 B.S. in Information Technology
