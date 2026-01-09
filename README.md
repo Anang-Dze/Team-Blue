@@ -51,5 +51,7 @@ To leverage 3+ years of experience in IT Support, SOC operations and Service/Hel
 B.S. in Information Technology
 
 ### Connect With Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbs;[My Profile]([https://wwww.limk](https://www.linkedin.com/in/anang-dze))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anang-dze)
+
+- **Email**: dzeanang@gmail.com
 
