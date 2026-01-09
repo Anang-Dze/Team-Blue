@@ -45,9 +45,9 @@ To leverage 3+ years of experience in IT Support, SOC operations and Service/Hel
   
 - [CompTIA A+ Core 2](https://github.com/Anang-Dze/CompTIA-A-Core-2/blob/main/CompTIA%20A%2B.png)
 
-- [CISCO Computer Hardware Basics](cert link)
+- [CISCO Computer Hardware Basics](https://github.com/Anang-Dze/Computer-Hardware-Basics/blob/main/Computer%20Hardware%20Basics.jpg)
   
-- [CISCO Operating Systems Basics](cert link)
+- [CISCO Operating Systems Basics](8)
 
 <h2>👨‍🎓Education</h2>
 B.S. in Information Technology
