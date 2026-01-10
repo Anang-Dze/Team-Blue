@@ -47,10 +47,19 @@ To leverage 4+ years of experience in IT Support, SOC operations and Service/Hel
   
 - [CISCO Operating Systems Basics](https://github.com/Anang-Dze/Operating-Systems-Basics/blob/main/Operating%20Sysem%20Basic.jpg)
 
-<h2>👨‍🎓Education</h2>
-Bachelor's in Information Technology
+- CompTIA Network+ (Inprogress)
+ 
+- CompTIA Advance Security Practioner,CASP+ (Expected:2027)
 
-Maxwell Technology Institue - Douala, 2022
+<h2>👨‍🎓Education</h2>
+
+ **Bachelor's in Information Technology**
+
+Maxwell Technology Institue - Douala, Cameroon
+
+Graduated: 2022
+
+Focused on IT fundamentals, networking, systems administration, and security principles, complemented by CompTIA A+ and Security+, not forgetting CISCO Networking Acandamy: Computer Hardware Basics and Operating Systems Basics certifications.
 
 <h2>CyberSecurity Training</h2>
 
