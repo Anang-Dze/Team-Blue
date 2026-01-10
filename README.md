@@ -11,7 +11,7 @@ To leverage 4+ years of experience in IT Support, SOC operations and Service/Hel
 
 - [Active Directory Home Lab](https://github.com/anangdze/LABURL)
 - [Disk Sanitization](https://github.com/anangdze/https://github.com/Anang-Dze/Disk-Sanitization/tree/main)
-- [Vulnerability Assessment](https://github.com/anangdze/LABURL)
+- [Vulnerability Assessment](https://github.com/anangdze/https://github.com/Anang-Dze/Disk-Sanitization)
 - [Splunk-SIEM-Project](https://github.com/anangdze/LABURL)
 
 ### 🛠️ Skills & Tools
