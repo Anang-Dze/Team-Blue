@@ -1,6 +1,6 @@
 <h1>Hi , I'm Anang Dze! </h1>
 
-Cybersecurity Analyst with over four years of experience in IT Technician/Support environments, Help Desk and Service Desk, including Security Operation Center (SOC) functions.
+Cybersecurity Analyst with over  years of experience in IT Technician/Support environments, Help Desk and Service Desk, including Security Operation Center (SOC) functions.
 Experienced in security monitoring, alert triage, vulnerability assessment, incident response, and user support. Strong background in troubleshooting Windows, Andriod and IOS systems, managing access contros, and maintaining secure, reliable IT services. Committed to continuos learning and improving organizational security posture through hands-on technical work and operational best practices.
 
 <h2>Objective</h2>
@@ -80,11 +80,11 @@ Focused on IT fundamentals, networking, systems administration, and security pri
 
 <h2>CyberSecurity Training</h2>
 
-- Technical Institute of America (TIA), 2023
+- [Technical Institute of America (TIA)](https://tiaedu.com/) - Completed April 2023
 
-- Dion Trainig, 2025
+- [Dion Trainig](https://www.diontraining.com/) - Copleted September 2025
   
-- CISCO Networking Academy, 2025
+- [CISCO Networking Academy](https://www.netacad.com/) - Completed December 2025
 
 
 
