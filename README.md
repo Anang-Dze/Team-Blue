@@ -10,9 +10,9 @@ To leverage 4+ years of experience in IT Support, SOC operations and Service/Hel
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
 - [Disk Sanitization](https://github.com/Anang-Dze/Disk-Sanitization/tree/main)
-- [Active Directory Home Lab]()
-- [Vulnerability Assessment](https://github.com/anangdze/LABURL)
-- [Splunk-SIEM-Project](https://github.com/anangdze/LABURL)
+- Active Directory Home Lab
+- Vulnerability Assessment
+- Splunk-SIEM-Project
 
 ### 🛠️ Skills & Tools
   [![Tech Skills](https://skillicons.dev/icons?i=windows,apple,linux,bash,git,splunk,wireshark,nessus,openvas)](https://skillicon.dev)
