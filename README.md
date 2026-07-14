@@ -1,7 +1,17 @@
 <h1>Hi , I'm Anang Dze! </h1>
 
-Cybersecurity Analyst with over four years of experience in IT Technician/Support environments, Help Desk and Service Desk, including Security Operation Center (SOC) functions.
-Experienced in security monitoring, alert triage, vulnerability assessment, incident response, and user support. Strong background in troubleshooting Windows, Andriod and IOS systems, managing access control, and maintaining secure, reliable IT services. Committed to continuos learning and improving organizational security posture through hands-on technical work and operational best practices.
+I’m an entry-level IT Support and Security Analyst with hands-on experience in:
+- Helpdesk support and user-facing troubleshooting  
+- Windows administration and access management  
+- Ticketing systems and incident tracking  
+- Vulnerability assessment and basic cybersecurity operations  
+
+I have a strong background in diagnosing and resolving hardware, software, networking, and user access issues in fast-paced support environments.
+
+Certifications and training (CompTIA Security+, CompTIA A+, and Cisco) have strengthened my knowledge of:
+- Hardware, software, and networking fundamentals  
+- Security best practices and threat mitigation  
+- Effective customer support and communication 
 
 <h2>Objective</h2>
 
@@ -70,11 +80,8 @@ To leverage 4+ years of experience in IT Support, SOC operations and Service/Hel
 
 <h2>👨‍🎓Education</h2>
 
- **Bachelor's in Information Technology**
-
-Maxwell Technology Institute - Douala,Cameroon
-
-Graduated: 2022
+ **High School Diplomat**
+ **Community College of Philadelphia - Planned Enrollement | Cybersecurity and Networking**
 
 Focused on IT fundamentals, networking, systems administration, and security principles, complemented by CompTIA A+ and Security+, not forgetting CISCO Networking Acandamy: Computer Hardware Basics and Operating Systems Basics certifications.
 
