@@ -15,7 +15,14 @@ Certifications and training (CompTIA Security+, CompTIA A+, and Cisco) have stre
 
 <h2>Objective</h2>
 
-To leverage 4+ years of experience in IT Support, SOC operations and Service/Help Desk, to contribute to an organization's security and IT operations team. Seeking a role where skills in hardware set-up and maintenance,software installation and basic troubleshooting,network troubleshooting,security support,security monitoring,incident response, vulnerability management,and end-user support can be applied to enhance system realibility,threat detection, and overall security resilience.
+
+I’m an enthusiastic early-career IT professional eager to contribute to an organization’s security and IT operations team. I aim to apply my foundational skills and hands-on learning in:
+Hardware setup, maintenance, and basic troubleshooting
+Software installation and end-user support
+Network troubleshooting and connectivity issues
+Security support, monitoring, and incident response
+Vulnerability management and risk mitigation
+My goal is to grow into a trusted team member who enhances system reliability, improves threat detection, and strengthens overall security resilience.
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
@@ -80,7 +87,7 @@ To leverage 4+ years of experience in IT Support, SOC operations and Service/Hel
 
 <h2>👨‍🎓Education</h2>
 
- **High School Diplomat**
+ **High School Diploma**
  **Community College of Philadelphia - Planned Enrollement | Cybersecurity and Networking**
 
 Focused on IT fundamentals, networking, systems administration, and security principles, complemented by CompTIA A+ and Security+, not forgetting CISCO Networking Acandamy: Computer Hardware Basics and Operating Systems Basics certifications.
