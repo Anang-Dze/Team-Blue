@@ -87,8 +87,8 @@ My goal is to grow into a trusted team member who enhances system reliability, i
 
 <h2>👨‍🎓Education</h2>
 
-  **High School Diploma
-  Community College of Philadelphia - Planned Enrollement | Cybersecurity and Networking**
+  - High School Diploma
+  - Community College of Philadelphia - Planned Enrollement | Cybersecurity and Networking
 
 Focused on IT fundamentals, networking, systems administration, and security principles, complemented by CompTIA A+ and Security+, not forgetting CISCO Networking Acandamy: Computer Hardware Basics and Operating Systems Basics certifications.
 
